@@ -3,7 +3,3 @@ venv
 .idea
 
 .env
-
-.sass-cache
-
-__pycache__/
